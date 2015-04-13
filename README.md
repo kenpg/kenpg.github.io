@@ -1,1 +1,1 @@
-This repository is for webpages.
+This repository is for <http://kenpg.github.io/>
